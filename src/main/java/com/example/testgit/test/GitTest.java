@@ -12,5 +12,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("这是测试git的代码");
         System.out.println("这是测试branch的代码");
+        System.out.println("这是测试branch2的代码");
     }
 }
