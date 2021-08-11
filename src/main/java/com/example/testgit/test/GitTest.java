@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("这是测试branch的代码");
         System.out.println("这是测试branch2的代码");
         System.out.println("修复了一个bug");
+        System.out.println("hotfix test");
 
     }
 }
